@@ -1,2 +1,2 @@
 echo hello world
-echa hi
+echo Hello World
